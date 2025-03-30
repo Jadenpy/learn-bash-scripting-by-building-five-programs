@@ -37,3 +37,6 @@ sh questionnaire.sh
 touch questionnaire.sh
 bash questionnaire.sh
 which bash
+which shell
+sh questionnaire.sh
+which shell
