@@ -42,3 +42,4 @@ sh questionnaire.sh
 which shell
 ls --color=auto -a
 ./questionnaire.sh
+ls --color=auto -l
