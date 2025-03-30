@@ -34,3 +34,5 @@ echo hello bash
 ls --color=auto -a
 touch questionnaire.sh
 sh questionnaire.sh
+touch questionnaire.sh
+bash questionnaire.sh
