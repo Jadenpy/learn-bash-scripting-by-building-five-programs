@@ -102,3 +102,4 @@ touch countdown.sh
 chmod +x countdown.sh
 where bash
 which bash
+./countdown.sh
