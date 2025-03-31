@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Title
-echo -e \n~~ Questionnaire ~~\n
+echo -e "\n~~ Questionnaire ~~\n"
 
 #Question1
 QUESTION1="What's your name?"
