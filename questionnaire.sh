@@ -9,3 +9,4 @@ echo "Hello $NAME."
 #Question2
 QUESTION2="Where are you from?"
 echo $QUESTION2
+read LOCATION
