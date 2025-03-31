@@ -92,3 +92,4 @@ ls --color=auto -a
 ./questionnaire.sh
 echo --help
 man echo
+./questionnaire.sh
