@@ -280,3 +280,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh 5
 ./countdown.sh 60
 touch bingo.sh
+chmod +x bingo.sh
