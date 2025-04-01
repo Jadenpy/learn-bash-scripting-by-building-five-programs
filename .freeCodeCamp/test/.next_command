@@ -282,3 +282,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
+printevn
+printenv
