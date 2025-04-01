@@ -294,3 +294,6 @@ echo $RANDOM
 echo $RANDOM
 echo $RANDOM
 echo $RANDOM
+./bingo.sh
+__vsc_prompt_cmd_original
+./bingo.sh
