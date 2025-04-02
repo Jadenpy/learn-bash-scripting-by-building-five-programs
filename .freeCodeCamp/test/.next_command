@@ -369,3 +369,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help let
 (( I += 10 ))
 echo $I
+$(( I + 4 ))
