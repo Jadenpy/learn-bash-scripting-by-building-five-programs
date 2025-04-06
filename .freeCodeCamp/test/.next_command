@@ -682,3 +682,5 @@ type read
 type if
 type then
 type bash
+__vsc_prompt_cmd_original
+type psql
