@@ -662,3 +662,6 @@ echo $VAR
 [[ $VAR =~ \?$ ]]
 [[ "test?" =~ \?$ ]]
 ./fortune.sh
+./fortune.sh
+./fortune.sh 1
+./fortune.sh "1"
