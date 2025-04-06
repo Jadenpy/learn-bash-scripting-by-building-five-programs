@@ -665,3 +665,4 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh 1
 ./fortune.sh "1"
+./fortune.sh
