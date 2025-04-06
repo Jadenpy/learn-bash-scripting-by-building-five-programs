@@ -618,3 +618,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ARR=("a" "b" "c")
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $ARR
+echo $ARR
+echo ${ARR[*]}
