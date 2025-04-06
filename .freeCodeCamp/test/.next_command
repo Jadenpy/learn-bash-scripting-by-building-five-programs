@@ -518,3 +518,6 @@ ls --color=auto -a
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+chmod -x fortune.sh
+chmod -x ./fortune.sh
+chmod +x fortune.sh
