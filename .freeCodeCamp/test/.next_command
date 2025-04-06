@@ -647,3 +647,6 @@ help [[ expression ]]
 [[ hello == hello ]]
 [[ hello == world ]]
 [[ hello =~ el ]]
+__vsc_prompt_cmd_original
+[[ helloworld =~ lowor ]]
+[[ "hello world" =~ "lo wor" ]]
